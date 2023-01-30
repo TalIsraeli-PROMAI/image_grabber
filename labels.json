@@ -1,0 +1,137 @@
+{"all_labels": [
+  {
+    "name": "Articulations, eyelets and other articulated joints", "search_query": ["articulations+eyelets", "articulation+mechanical", "mechanical+joint"]},
+  {
+    "name": "Bearing accessories", "search_query": [""]},
+  {
+    "name": "Bushes", "search_query": ["bearing+accessories", "bearing+accessory"]},
+  {
+    "name": "Cap nuts", "search_query": ["cap+nuts", "cap+nut"]},
+  {
+    "name": "Castle nuts", "search_query": ["castle+nuts", "castle+nut"]},
+  {
+    "name": "Castor", "search_query": ["castor+wheels", "trolley+wheels", "industrial+wheels"]},
+  {
+    "name": "Chain drives", "search_query": ["chain+drives", "roller+chain+drives"]},
+  {
+    "name": "Clamps", "search_query": ["clamps", "clamps+pipe"]},
+  {
+    "name": "Collars", "search_query": ["mechanical+collars"]},
+  {
+    "name": "Conventional rivets", "search_query": ["rivets", "conventional+rivets"]},
+  {
+    "name": "Convex washer", "search_query": ["convex+washers", "convex+washer"]},
+  {
+    "name": "Cylindrical pins", "search_query": ["cylindrical+pin", "cylindrical+pin"]},
+  {
+    "name": "Elbow fitting", "search_query": ["elbow+fittings", "elbow+fitting", "brass+elbow+fitting", "plumbing+elbow+fitting"]},
+  {
+    "name": "Eye screws", "search_query": ["eye+screws", "eye+bolts"]},
+  {
+    "name": "Fan", "search_query": ["mechanical+fan"]},
+  {
+    "name": "Flange nut", "search_query": ["flange+nut"]},
+  {
+    "name": "Flanged block bearing", "search_query": ["flanged+block+bearing"]},
+  {
+    "name": "Flanged plain bearings", "search_query": ["flanged+plain+bearing"]},
+  {
+    "name": "Grooved pins", "search_query": ["grooved+pin"]},
+  {
+    "name": "Helical geared motors", "search_query": ["helical+geared+motors"]},
+  {
+    "name": "Hexagonal nuts", "search_query": ["hexagonal+nuts"]},
+  {
+    "name": "Hinge", "search_query": ["hinges"]},
+  {
+    "name": "Hook", "search_query": ["mechanical+hooks"]},
+  {
+    "name": "Impeller", "search_query": ["impellers"]},
+  {
+    "name": "Keys and keyways, splines", "search_query": ["steel+keyways", "steel+sunk+keys"]},
+  {
+    "name": "Knob", "search_query": ["industrial+knob", "knob+screw"]},
+  {
+    "name": "Lever", "search_query": ["industrial+lever"]},
+  {
+    "name": "Locating pins", "search_query": ["locating+pin"]},
+  {
+    "name": "Locknuts", "search_query": ["locknut"]},
+  {
+    "name": "Lockwashers", "search_query": ["lockwasher"]},
+  {
+    "name": "Nozzle", "search_query": ["nozzles"]},
+  {
+    "name": "Plain guidings", "search_query": ["plain+guiding"]},
+  {
+    "name": "Plates, circulate plates", "search_query": ["steel+circular+plate", "circular+plate"]},
+  {
+    "name": "Plugs", "search_query": ["steel+plugs"]},
+  {
+    "name": "Pulleys", "search_query": ["industrial+pulleys"]},
+  {
+    "name": "Radial contact ball bearings", "search_query": ["radiant+contact+ball+bearing"]},
+  {
+    "name": "Right angular gearings", "search_query": ["right+angular+gearings"]},
+  {
+    "name": "Right spur gears", "search_query": ["right+spur+gears"]},
+  {
+    "name": "Rivet nut", "search_query": ["rivet+nut"]},
+  {
+    "name": "Roll pins", "search_query": ["roll+pins"]},
+  {
+    "name": "Screws and bolts with countersunk head", "search_query": ["screws+and+bolts+with+countersunk+head"]},
+  {
+    "name": "Screws and bolts with cylindrical head", "search_query": ["screws+and+bolts+with+cylindrical+head"]},
+  {
+    "name": "Screws and bolts with hexagonal head", "search_query": ["screws+and+bolts+with+hexagonal+head"]},
+  {
+    "name": "Setscrew", "search_query": ["setscrews"]},
+  {
+    "name": "Slotted nuts", "search_query": ["slotted+nuts"]},
+  {
+    "name": "Snap rings", "search_query": ["snap+rings"]},
+  {
+    "name": "Socket", "search_query": ["socket_screw"]},
+  {
+    "name": "Spacers", "search_query": ["industrial+spacers"]},
+  {
+    "name": "Split pins", "search_query": ["split+pins", ""]},
+  {
+    "name": "Spring washers", "search_query": ["spring+washers"]},
+  {
+    "name": "Springs", "search_query": ["metal+springs"]},
+  {
+    "name": "Square", "search_query": ""},
+  {
+    "name": "Square nuts", "search_query": ["square+nut"]},
+  {
+    "name": "Standard fitting", "search_query": ["industrial+fitting"]},
+  {
+    "name": "Studs", "search_query": ["standard+studs"]},
+  {
+    "name": "Switch", "search_query": ["switches+and+buttons"]},
+  {
+    "name": "T-nut", "search_query": ["t+nut"]},
+  {
+    "name": "T-shape fitting", "search_query": ["t+shape+fitting"]},
+  {
+    "name": "Taper pins", "search_query": ["taper+pins"]},
+  {
+    "name": "Tapping screws", "search_query": ["tapping+screws"]},
+  {
+    "name": "Threaded rods", "search_query": ["threaded+rods"]},
+  {
+    "name": "Thrust washers", "search_query": ["thrust+washers"]},
+  {
+    "name": "Toothed", "search_query": ["toothed+wheel"]},
+  {
+    "name": "Turbine", "search_query": ["industrial+turbine"]},
+  {
+    "name": "Valve", "search_query": ["valves"]},
+  {
+    "name": "Washer bolt", "search_query": ["washer+bolts"]},
+  {
+    "name": "Wheel", "search_query": ["industrial+wheels"]},
+  {
+    "name": "Wingnuts", "search_query": ["wingnuts"]}]}
