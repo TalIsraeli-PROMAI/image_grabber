@@ -117,7 +117,7 @@ def load_all_images_in_page(driver, total_images_to_download):
 
 # gets the src string and decides if it's a base64 format image or an url
 def download_image(src, root_folder_name, current_idx, prev_files_idx, total):
-    saved_file_name = root_folder_name.split('/')[-1] + "_" + str(current_idx + prev_files_idx)
+    saved_file_name = root_folder_name.split('/')[-1] + "_" + str(current_idx + prev_files_idx).zfill(6)
     if str(src) is None:
         src_type = "None"
         return
